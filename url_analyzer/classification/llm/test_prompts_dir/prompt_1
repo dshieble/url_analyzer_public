@@ -1,0 +1,282 @@
+
+You would like to create a new account on the website https://github.com/ in order to test that website.
+
+Once you are inside of the sign-up flow you should can use the following account information. Do not attempt to use this information to log in to the website, no account will exist until you create one.
+{"email": "admin@zero-phishing.com", "password": "Cewjnuaern2309230vjf!", "username": "adminnferwiq289"}
+
+Here is the list of actions you have performed thus far:
+[]
+
+The current content of the webpage is
+```
+Current window displays the following contents-----
+Within frame :
+    Skip to content
+  Toggle navigation
+        Sign up
+          * Product
+                      + Actions
+                      Automate any workflow
+                      + Packages
+                      Host and manage packages
+                      + Security
+                      Find and fix vulnerabilities
+                      + Codespaces
+                      Instant dev environments
+                      + Copilot
+                      Write better code with AI
+                      + Code review
+                      Manage code changes
+                      + Issues
+                      Plan and track work
+                      + Discussions
+                      Collaborate outside of code
+                Explore
+                  + All features
+                  + Documentation
+                  + GitHub Skills
+                  + Blog
+          * Solutions
+                For
+                  + Enterprise
+                  + Teams
+                  + Startups
+                  + Education
+                By Solution
+                  + CI/CD & Automation
+                  + DevOps
+                  + DevSecOps
+                Resources
+                  + Learning Pathways
+                  + White papers, Ebooks, Webinars
+                  + Customer Stories
+                  + Partners
+          * Open Source
+                      + GitHub Sponsors
+                      Fund open source developers
+                      + The ReadME Project
+                      GitHub community articles
+                Repositories
+                  + Topics
+                  + Trending
+                  + Collections
+          * Pricing
+            Search or jump to...
+
+              Search code, repositories, users, issues, pull requests...
+
+                    Provide feedback
+
+                We read every piece of feedback, and take your input very seriously.
+
+                Include my email address so I can be contacted
+                Cancel Submit feedback
+
+                    Saved searches
+
+                    Use saved searches to filter your results more quickly
+
+                Cancel Create saved search
+            Sign in
+          Sign up
+          {{ message }}
+
+            Let’s build from here
+
+            The world’s leading AI-powered developer platform.
+
+                Email address Sign up for GitHub
+              Start a free enterprise trial
+
+              Trusted by the world’s leading organizations ↘︎
+
+            Productivity Collaboration Security
+            Start a free enterprise trial Sign up for GitHub
+
+            Productivity
+
+            Accelerate innovation Our AI-powered platform increases the pace of software development.
+
+                  GitHub Copilot empowers developers to complete tasks 55% faster with contextualized AI coding assistance across workflows.
+
+                  Explore GitHub Copilot
+                  Did you know?
+
+                22% increase
+
+                in developer productivity after three years with GitHub
+
+                Read the report
+
+              GitHub Actions automates your build, test, and deployment workflow with simple and secure CI/CD.
+
+                Discover GitHub Actions
+
+                GitHub Codespaces offers a complete dev environment in seconds. Code, build, test, and open pull requests from any repo.
+
+                  Check out GitHub Codespaces
+
+                GitHub Mobile fits your projects in your pocket, so you never miss a beat while on the go.
+
+                  Download GitHub Mobile
+
+          Application security
+
+          Empower developers With GitHub, you can secure code in minutes.
+
+            cmake.yml
+          on: push
+                  * Build
+                  1m 21s
+              Steps
+                  * Initialize CodeQL
+                  1m 42s
+                  * Autobuild
+                  1m 24s
+                  * Perform CodeQL Analyses
+                  1m 36s
+
+                GitHub Advanced Security enables you to find and fix vulnerabilities with ease and ship secure code quickly.
+
+                Dive into GitHub Advanced Security
+                Did you know?
+
+              7x faster
+
+              vulnerability fixes with GitHub1
+
+            Code scanning is our code analysis tool that helps you remediate issues in your code.
+
+              Download the latest SAST ebook
+
+              Dependabot makes it easy to find and fix vulnerable dependencies in your supply chain.
+
+                Explore Dependabot
+
+              Secret scanning automatically looks for partner patterns and prevents fraudulent use of accidentally committed secrets.
+
+                Read about secret scanning
+
+          Collaboration
+
+          Supercharge collaboration GitHub helps your teams work more efficiently together.
+
+                GitHub Issues and GitHub Projects supply project management tools that adapt to your team alongside your code.
+
+                Get started with GitHub Issues
+                Did you know?
+
+              80%
+
+              reduction in onboarding time with GitHub2
+
+              GitHub Discussions creates space to ask questions and have open-ended conversations.
+
+                Jump into GitHub Discussions
+
+              Pull requests allow real-time communication and collaboration about code changes.
+
+                Check out pull requests
+
+          GitHub Sponsors lets you support your favorite open source maintainers and projects.
+
+            Invest with GitHub Sponsors
+                Nikema
+              Sponsor
+                ESLint
+              Sponsor
+                chaynHQ
+              Sponsor
+                curl
+              Sponsor
+                Nick DeJesus
+              Sponsor
+                Homebrew
+              Sponsor
+                sindresorhus
+              Sponsor
+                Samuel
+              Sponsor
+                Evan You
+              Sponsor
+
+            Over 100 million developers call GitHub home3
+
+            Whether you’re scaling your startup or just learning how to code, GitHub is your home. Join the world’s largest developer platform to build the innovations that empower humanity. Let’s build from here.
+
+                Email address Sign up for GitHub
+              Start a free enterprise trial
+            #34234 facebook/react
+      * 1 This 7X times factor is based on data from the industry’s longest running analysis of fix rates Veracode State of Software Security 2023, which cites the average time to fix 50% of flaws as 198 days vs. GitHub’s fix rates of 72% of flaws with in 28 days which is at a minimum of 7X faster when compared.
+      * 2 The Total Economic Impact™ Of GitHub Enterprise Cloud and Advanced Security, a commissioned study conducted by Forrester Consulting, 2022. Results are for a composite organization based on interviewed customers.
+      * 3 There are now 100 million developers around the world using GitHub. Read the blog post.
+
+        Subscribe to our developer newsletter
+
+        Get tips, technical guides, and best practices. Once a month. Right in your inbox.
+
+        Subscribe
+
+      Product
+
+        * Features
+        * Enterprise
+        * Copilot
+        * Security
+        * Pricing
+        * Team
+        * Resources
+        * Roadmap
+        * Compare GitHub
+
+      Platform
+
+        * Developer API
+        * Partners
+        * Electron
+        * GitHub Desktop
+
+      Support
+
+        * Docs
+        * Community Forum
+        * Professional Services
+        * Premium Support
+        * Skills
+        * Status
+        * Contact GitHub
+
+      Company
+
+        * About
+        * Customer stories
+        * Blog
+        * The ReadME Project
+        * Careers
+        * Press
+        * Inclusion
+        * Social Impact
+        * Shop
+      * GitHub on X
+      * GitHub on Facebook
+      * GitHub on LinkedIn
+      * GitHub on YouTube
+      * GitHub on Twitch
+      * GitHub on TikTok
+      * GitHub’s organization on GitHub
+      * © 2023 GitHub, Inc.
+      * Terms
+      * Privacy (Updated 08/2022)
+      * Sitemap
+      * What is Git?
+        * Manage cookiesDo not share my personal information
+```
+
+You can take any of the actions in the following list. Your response must be a json string with keys equal to the `properties` field in the action you take.
+[
+  {'type': 'function', 'function': {'name': 'click_button', 'description': 'Click a button on the current webpage', 'parameters': {'type': 'object', 'properties': {'button_text': {'type': 'string', 'description': 'The text of the button to click. The available buttons to click are [[\'skip to content\', \'product\', \'solutions\', \'open source\', \'pricing\', \'search or jump to...\', \'sign in\', \'sign up\', \'sign up for github\', \'start a free enterprise trial\', \'explore github copilot\', \'read the report\', \'discover github actions\', \'check out github codespaces\', \'download github mobile\', \'dive into github advanced security\', \'download the latest sast ebook\', \'explore dependabot\', \'read about secret scanning\', \'get started with github issues\', \'jump into github discussions\', \'check out pull requests\', \'invest with github sponsors\', \'nikema sponsor\', \'sponsor\', \'eslint sponsor\', \'sponsor\', \'chaynhq sponsor\', \'sponsor\', \'curl sponsor\', \'sponsor\', \'nick dejesus sponsor\', \'sponsor\', \'homebrew sponsor\', \'sponsor\', \'sindresorhus sponsor\', \'sponsor\', \'samuel sponsor\', \'sponsor\', \'evan you sponsor\', \'sponsor\', \'sign up for github\', \'start a free enterprise trial\', \'read the blog post\', \'subscribe\', \'features\', \'enterprise\', \'copilot\', \'security\', \'pricing\', \'team\', \'resources\', \'roadmap\', \'compare github\', \'developer api\', \'partners\', \'electron\', \'github desktop\', \'docs\', \'community forum\', \'professional services\', \'premium support\', \'skills\', \'status\', \'contact github\', \'about\', \'customer stories\', \'blog\', \'the readme project\', \'careers\', \'press\', \'inclusion\', \'social impact\', \'shop\', \'github on x\', \'github on facebook\', \'github on linkedin\', \'github on youtube\', \'github on twitch\', \'github on tiktok\', "github\'s organization on github", \'terms\', \'privacy\', \'updated 08/2022\', \'sitemap\', \'what is git?\', \'manage cookies\', \'do not share my personal information\']]'}}, 'required': ['button_text']}}
+  },
+  {'type': 'function', 'function': {'name': 'submit_form', 'description': 'Fill out and submit a form on the current webpage.', 'parameters': {'type': 'object', 'properties': {'form_input': {'type': 'string', 'description': "A json string mapping the form field names to their values for submission. The available fields are [['user_email', 'user_email']]"}}, 'required': ['form_input']}}}, {'type': 'function', 'function': {'name': 'finish', 'description': 'Choose this action if the task is complete and there are no steps remaining.', 'parameters': {'type': 'object', 'properties': {}, 'required': []}}}
+]
+
+Your action in json format: 
